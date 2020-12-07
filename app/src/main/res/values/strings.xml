@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Biblioteca</string>
+    <string name="codigo">Código</string>
+    <string name="titulo">Título</string>
+    <string name="estado">Estado</string>
+    <string name="tipo">Tipo</string>
+    <string name="busqueda_de_libros">Búsqueda de Libros</string>
+    <string name="buscar">Buscar</string>
+    <string name="ingrese_termino_de_busqueda">Ingrese término de búsqueda</string>
+</resources>
